@@ -2,11 +2,11 @@
 This repository is an excercise to practice HTML/CSS
 
 ## Experience
-	LIFE IS HARD until I learned to use the internet 
+	Found it difficult to eyeball all the details but I realized that the internet is a vast resource of knowledge and found comprehensive guides for the exercise 
 
 ## Problems
-Tried too hard
-Thought too little
+-Tried too hard to do it on my own
+-
 
 ## Todos
--make it responsive# Reddit-Clone
+-make it responsive #Reddit-Clone
